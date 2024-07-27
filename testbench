@@ -24,10 +24,10 @@ module tb(
      MIPS32.Mem[0]=32'h2801000a;
      MIPS32.Mem[1]=32'h28020014;
      MIPS32.Mem[2]=32'h28030019;
-     MIPS32.Mem[3]=32'h0ce77800; //dummy instructio
-     MIPS32.Mem[4]=32'h0ce77800; //dummy instructio
+     MIPS32.Mem[3]=32'h0ce77800; //dummy instruction
+     MIPS32.Mem[4]=32'h0ce77800; //dummy instruction
      MIPS32.Mem[5]=32'h00222000;
-     MIPS32.Mem[6]=32'h0ce77800; //dummy instructio
+     MIPS32.Mem[6]=32'h0ce77800; //dummy instruction
      MIPS32.Mem[7]=32'h00832800;
      MIPS32.Mem[8]=32'hfc000000;
      MIPS32.HALTED=0;
