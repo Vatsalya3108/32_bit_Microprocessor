@@ -1,9 +1,9 @@
-# 16_bit_Microprocessor
+# 32_bit_Microprocessor
 A group project by Vatsalya singh, Vivek kumar, Nitin Meena, and Mahith sai Reddy.
 
-This project involves the design and implementation of a 16-bit microprocessor, a crucial building block in computing systems. Our 16-bit microprocessor features:
+This project involves the design and implementation of a 16-bit microprocessor, a crucial building block in computing systems. Our 32-bit microprocessor features:
 
-16-bit Data Path: Handles data in 16-bit chunks, allowing for efficient processing and storage of information.
+32-bit Data Path: Handles data in 32-bit chunks, allowing for efficient processing and storage of information.
 
 Instruction Set Architecture (ISA): A well-defined set of instructions tailored for our 16-bit architecture, including arithmetic, logic, control, and data movement instructions.
 
