@@ -1,7 +1,7 @@
 # 32_bit_Microprocessor
 A group project by Vatsalya singh, Vivek kumar, Nitin Meena, and Mahith sai Reddy.
 
-This project involves the design and implementation of a 16-bit microprocessor, a crucial building block in computing systems. Our 32-bit microprocessor features:
+This project involves the design and implementation of a 32-bit microprocessor, a crucial building block in computing systems. Our 32-bit microprocessor features:
 
 32-bit Data Path: Handles data in 32-bit chunks, allowing for efficient processing and storage of information.
 
